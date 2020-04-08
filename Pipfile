@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 seaborn = "*"
+cufflinks = "*"
+chart-studio = "*"
 
 [dev-packages]
 jupyter = "*"
